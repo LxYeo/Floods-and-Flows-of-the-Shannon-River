@@ -10,8 +10,11 @@ At the same time, the Shannon Town & Environs Flood Relief Scheme highlights the
 
 Together, these factors show why the Shannon’s floods matter: people, infrastructure, navigation, and ecosystems are regularly impacted by short-notice surges and by legacy drainage constraints. A desk-based challenge using AI, data analytics, software, and multimedia can add real value—by improving prediction and communication, exploring nature-based adaptation virtually, and creating **interactive tools** that help communities, planners, and waterway users make better decisions.
 
- Example of floods in Athlone:
+Historical flood map of Athlone:
+ 
  ![Athlone floods](assets/floods_athlone.png)
+
+ Source: https://www.floodinfo.ie/map/floodmaps/  
 
 ## 3) Problem Statement
 How might we use AI, software, data analytics, or multimedia to understand, predict, and communicate flooding dynamics in the Shannon Basin—improving the lives of communities along the river? Propose an interesting solution that leverages open Irish datasets to generate actionable insight, early-warning, compelling public engagement, and how the approach can be transferred to other basins.
