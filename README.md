@@ -21,7 +21,7 @@ Historical flood map around Athlone town (situated on the banks of the River Sha
 How might we use AI, software, data analytics, or multimedia to understand, predict, and communicate flooding dynamics in the Shannon Basin with the goal of improving the lives of communities along the river? Propose a solution that leverages open Irish datasets to generate actionable insights, early warning, and compelling public engagement, and explain how the approach can be transferred to other basins.
 
 
-4) Expected Outcomes
+## 4) Expected Outcomes
 - **AI / data models:** rainfall–water-level correlations, nowcasting, early-warning prototypes.  
 - **Interactive tools:** web dashboards, simulation sandboxes.  
 - **Multimedia storytelling:** short animations, interactive narratives, explainers.  
