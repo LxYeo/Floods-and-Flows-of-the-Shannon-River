@@ -35,7 +35,7 @@ Data analysis and machine-learning modeling, visualization, mapping, and storyte
 **Target audience:**
 - **Local authorities & Waterways Ireland** — decision support (short-term forecasts, risk maps).  
 - **Communities along the River Shannon** — clear alerts/explainers and preparedness visuals.  
-- **Emergency services** — 24–72h situational-awareness maps and pinch-point views.
+- **Emergency services** — timely situational-awareness maps and pinch-point views.
   
 
 ## 6) Resources
