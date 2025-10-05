@@ -39,7 +39,7 @@ Data analysis and machine-learning modeling, visualization, mapping, and storyte
   
 
 ## 6) Resources
-- Flood maps (Ireland): https://www.floodinfo.ie/map/floodmaps/  
+- Flood map: https://www.floodinfo.ie/map/floodmaps/  
 - Climate & rainfall data: https://www.met.ie/climate/available-data/monthly-data  
 - Shannon water levels: https://www.waterwaysireland.org/our-waterways/shannon-navigation/water-levels
   
