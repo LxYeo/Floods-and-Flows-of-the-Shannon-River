@@ -26,7 +26,7 @@ How might we use AI, software, data analytics, or multimedia to understand, pred
 - **Interactive tools:** web dashboards, simulation sandboxes.  
 - **Multimedia storytelling:** short animations, interactive narratives, explainers.  
 - **Design concepts:** visual communications for community preparedness or nature-based solutions.
-- 
+  
 
 ## 5) Scope
 Data analysis and machine-learning modeling, visualization, mapping, and storytelling (e.g., notebooks, dashboards/web apps, short animations). While scoped to the Shannon Basin, your approach should be adaptable to other river basins by swapping local datasets, recalibrating thresholds/models, and retargeting the audience. Avoid physical engineering designs, fieldwork, and proprietary/confidential data, as those are out of scope.
@@ -36,13 +36,13 @@ Data analysis and machine-learning modeling, visualization, mapping, and storyte
 - **Local authorities & Waterways Ireland** — decision support (short-term forecasts, risk maps).  
 - **Communities along the River Shannon** — clear alerts/explainers and preparedness visuals.  
 - **Emergency services** — 24–72h situational-awareness maps and pinch-point views.
-- 
+  
 
 ## 6) Resources
 - Flood maps (Ireland): https://www.floodinfo.ie/map/floodmaps/  
 - Climate & rainfall data: https://www.met.ie/climate/available-data/monthly-data  
 - Shannon water levels: https://www.waterwaysireland.org/our-waterways/shannon-navigation/water-levels
-- 
+  
 
 ## 7) Difficulty
 **Intermediate/Advanced** 
