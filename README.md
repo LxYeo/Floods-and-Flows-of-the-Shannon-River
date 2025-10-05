@@ -1,4 +1,4 @@
-# Floods & Flows of the Shannon River
+# The Shannon Studio Challenge: Floods & Flows of the Shannon River
 
 ## 1) Title
 Floods & Flows of the Shannon River
@@ -10,7 +10,7 @@ At the same time, the Shannon Town & Environs Flood Relief Scheme highlights the
 
 Together, these factors show why the Shannon’s floods matter: people, infrastructure, navigation, and ecosystems are regularly impacted by short-notice surges and by legacy drainage constraints. A desk-based challenge using AI, data analytics, software, and multimedia can add real value—by improving prediction and communication, exploring nature-based adaptation virtually, and creating **interactive tools** that help communities, planners, and waterway users make better decisions.
 
-Historical flood map of Athlone:
+Historical flood map around Athlone town:
  
  ![Athlone floods](assets/floods_athlone.png)
 
