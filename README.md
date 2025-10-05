@@ -47,4 +47,12 @@ Data analysis and machine-learning modeling, visualization, mapping, and storyte
 ## 7) Difficulty
 **Intermediate/Advanced** 
 
+## 8) Inspiration
+
+- **Room for the River (Netherlands):** Designing with floods (wider floodplains, bypass channels) — a model for scenario maps and explainer visuals. (https://www.rijkswaterstaat.nl/en/projects/iconic-structures/room-for-the-river)
+- **Google AI Flood Forecasting / Flood Hub:** State-of-the-art ML for riverine flood early warning — useful for modelling baselines and evaluation ideas. (https://blog.google/technology/ai/google-ai-global-flood-forecasting/)
+- **Copernicus EMS Rapid Mapping:** Satellite-derived flood extent maps; emulate the mapping/storytelling workflow. (https://mapping.emergency.copernicus.eu/)
+- **Flood Factor (First Street Foundation):** Clear risk scoring and UI patterns for communicating household/asset risk (methodology is public). (https://firststreet.org/methodology/flood)
+
+
 
