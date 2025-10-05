@@ -11,7 +11,7 @@ At the same time, the Shannon Town & Environs Flood Relief Scheme highlights chr
 Together, these factors show why the Shannon’s floods matter: people, infrastructure, navigation, and ecosystems are regularly affected by short-notice surges and by legacy drainage constraints. This challenge invites students to use AI, data analytics, software, and multimedia to improve prediction and communication, explore nature-based adaptation virtually, and create interactive tools that help communities, planners, and waterway users make better decisions.
 
 
-Historical flood map around Athlone town (situated on the banks of the River Shannon):
+Historical flood map around Athlone town (situated on the banks of the Shannon River):
  
  ![Athlone floods](assets/floods_athlone.png)
 
@@ -34,7 +34,7 @@ Data analysis and machine-learning modeling, visualization, mapping, and storyte
 
 **Target audience:**
 - **Local authorities & Waterways Ireland** — decision support (short-term forecasts, risk maps).  
-- **Communities along the River Shannon** — clear alerts/explainers and preparedness visuals.  
+- **Communities along the Shannon River** — clear alerts/explainers and preparedness visuals.  
 - **Emergency services** — timely situational-awareness maps and pinch-point views.
   
 
