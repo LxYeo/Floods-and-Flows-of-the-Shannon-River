@@ -10,7 +10,7 @@ At the same time, the Shannon Town & Environs Flood Relief Scheme highlights chr
 
 Together, these factors show why the Shannon’s floods matter: people, infrastructure, navigation, and ecosystems are regularly impacted by short-notice surges and by legacy drainage constraints. A desk-based challenge using AI, data analytics, software, and multimedia can add real value—by improving prediction and communication, exploring nature-based adaptation virtually, and creating interactive tools that help communities, planners, and waterway users make better decisions.
 
-Historical flood map around Athlone town:
+Historical flood map around Athlone town (situated on the banks of the River Shannon):
  
  ![Athlone floods](assets/floods_athlone.png)
 
